@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f437c1e0-d366-440a-8a68-674e5163b199": {
+      "ProjectGuid": "f437c1e0-d366-440a-8a68-674e5163b199",
+      "DisplayName": "API_REST_VENTAS",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
